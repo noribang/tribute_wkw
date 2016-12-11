@@ -1,0 +1,49 @@
+html, body {
+  margin: 0;
+  padding: 0;
+/*  height: 100%;
+  width: 100%;*/
+/*  height: 800px;
+  background: url("https://www.wgsn.com/blogs/wp-content/uploads/2011/11/wong-kar-wai-shu-uemura-2011.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+}
+
+body {
+  background: url(https://www.wgsn.com/blogs/wp-content/uploads/2011/11/wong-kar-wai-shu-uemura-2011.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;	
+}
+
+.jumbotron {
+/*	height: 100%;*/
+/*	margin: 0px;
+	padding:0px;
+	height: auto;
+	width: auto;*/
+/*  background: url("https://www.wgsn.com/blogs/wp-content/uploads/2011/11/wong-kar-wai-shu-uemura-2011.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+}
+
+.text {
+	color: #fff;
+}
+
+h1 {
+/*  border: dotted 1px red;*/
+  margin-bottom: 0px;
+}
+
+#tribute {
+/*  border: dotted 1px red;*/
+  margin-top: -10px;
+  font-weight: lighter;
+
+}
