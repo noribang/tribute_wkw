@@ -37,14 +37,18 @@ body {
 	color: #fff;
 }
 
-h1 {
+#title {
 /*  border: dotted 1px red;*/
   margin-bottom: 0px;
+  font-family: 'Nova Script', cursive;
+  color: red;
 }
 
 #tribute {
 /*  border: dotted 1px red;*/
   margin-top: -10px;
-  font-weight: lighter;
+/*  font-weight: lighter;*/
+font-family: 'Droid Sans 400', sans-serif;
+color: blue;
 
 }
